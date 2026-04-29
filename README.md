@@ -45,6 +45,12 @@ This project solves that challenge by combining:
 
 ## Routing Modes
 
+## Interface Preview
+
+![Dashboard](figures/home%20page.png)
+
+---
+
 ### LOCAL Route
 
 Private requests stay fully on-premises.
@@ -66,12 +72,6 @@ General knowledge requests are safely sent to cloud AI.
 Sensitive fragments stay local while safe fragments are sent to cloud AI.
 
 ![Mixed Route](figures/mixed.png)
-
----
-
-## Interface Preview
-
-![Dashboard](figures/home%20page.png)
 
 ---
 
