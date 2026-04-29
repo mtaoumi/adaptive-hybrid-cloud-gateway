@@ -133,4 +133,34 @@ figures/    Screenshots and diagrams
 logs/       Evaluation outputs
 ```
 
+```text
+ADAPTIVE_GATEWAY/
+├── app/
+│   ├── cloud_handler.py
+│   ├── local_handler.py
+│   ├── logger.py
+│   ├── main.py
+│   ├── ml_model.py
+│   ├── redactor.py
+│   ├── router_logic.py
+│   └── sensitivity_checker.py
+│
+├── data/
+│   └── training_data.csv
+│
+├── logs/
+│   ├── evaluation_report.json
+│   └── gateway.log
+│
+├── models/
+│   ├── sensitivity_model.pkl
+│   └── vectorizer.pkl
+│
+├── static/
+│   └── index.html
+│
+├── analyze_logs.py
+├── evaluate.py
+├── requirements.txt
+└── test_gateway.py
 ---
