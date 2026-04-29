@@ -163,3 +163,10 @@ ADAPTIVE_GATEWAY/
 ├── evaluate.py
 ├── requirements.txt
 └── test_gateway.py
+```
+
+## Full Project Report
+
+Detailed capstone documentation available here:
+
+[View Report](report/Adaptive_Hybrid_Cloud_Gateway_Report.pdf)
