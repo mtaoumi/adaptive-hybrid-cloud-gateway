@@ -1,4 +1,4 @@
-````md
+
 # Adaptive Hybrid Cloud Gateway for Secure AI Chatbots
 
 Privacy-first AI routing system developed as a capstone project at Al Akhawayn University.
